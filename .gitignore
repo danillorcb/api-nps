@@ -33,7 +33,7 @@ bower_components
 # OS metadata
 .DS_Store
 Thumbs.db
-src/database/database.sqlite
+**.sqlite
 
 # Ignore built ts files
 dist/**/*
